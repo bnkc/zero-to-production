@@ -20,14 +20,8 @@
                   "name": "header_pair",
                   "kind": {
                     "Composite": [
-                      [
-                        "name",
-                        "Text"
-                      ],
-                      [
-                        "value",
-                        "Bytea"
-                      ]
+                      ["name", "Text"],
+                      ["value", "Bytea"]
                     ]
                   }
                 }
@@ -43,16 +37,9 @@
       }
     ],
     "parameters": {
-      "Left": [
-        "Uuid",
-        "Text"
-      ]
+      "Left": ["Uuid", "Text"]
     },
-    "nullable": [
-      true,
-      true,
-      true
-    ]
+    "nullable": [true, true, true]
   },
   "hash": "9f103f7d6dfa569bafce4546e6e610f3d31b95fe81f96ea72575b27ddfea796e"
 }
